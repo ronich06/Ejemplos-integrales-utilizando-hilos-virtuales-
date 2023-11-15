@@ -19,7 +19,7 @@ Para que el programa fuera rápido de ejecutar utilizamos un archivo de prueba m
 
 Dado que los hilos virtuales se implementaron en la version 21 de Java es necesario tener una version igual o superior a la 21.
 
-Para probar los tiempos ingresar los siguientes comando en la direccion del archivo:
+Para probar los tiempos ingresar los siguientes comandos en la direccion del archivo:
 
 javac ByteCounterVirtualThreads.java
 
