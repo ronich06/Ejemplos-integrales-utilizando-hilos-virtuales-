@@ -17,7 +17,7 @@ Cabe destacar que este programa tiene como objetivo contar byte por byte ya que 
 
 Para que el programa fuera rápido de ejecutar utilizamos un archivo de pruebamuy pequeño:
 
-Dado que los hilos virtuales se implementaron en la version 19 de Java es necesario tener una version igual o superior a la 19.
+Dado que los hilos virtuales se implementaron en la version 21 de Java es necesario tener una version igual o superior a la 21.
 
 Para probar los tiempos ingresar los siguientes comando en la direccion del archivo:
 
