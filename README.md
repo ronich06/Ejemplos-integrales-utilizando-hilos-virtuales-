@@ -21,10 +21,10 @@ Dado que los hilos virtuales se implementaron en la version 21 de Java es necesa
 
 Para probar los tiempos ingresar los siguientes comandos en la direccion del archivo:
 
-javac ByteCounterVirtualThreads.java
+javac ByteCounterVirtualThreads1.java
 
-javac ByteCounterThreads.java
+javac ByteCounterThreads1.java
 
-java ByteCounterVirtualThreads prueba.txt
+java ByteCounterVirtualThreads1 prueba.txt
 
-java ByteCounterThreads prueba.txt
+java ByteCounterThreads1 prueba.txt
